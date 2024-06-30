@@ -1,4 +1,3 @@
-# PSDA_Project2
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,13 +7,6 @@
 </head>
 <body>
     <h1>Probability & Statistical Data Analysis - Project 2</h1>
-    <h2>Group Members</h2>
-    <ul>
-        <li>Chang Wen Xuen - A23CS5012</li>
-        <li>Lim Chen Xi - A23CS0103</li>
-        <li>Foo Ming Kuang - A23CS5026</li>
-        <li>Karen Voon Xiu Wen - A23CS0229</li>
-    </ul>
 
     <h2>Project Overview</h2>
     <p>
@@ -27,7 +19,6 @@
         <li>Dataset</li>
         <li>Data Analysis</li>
         <li>Conclusion</li>
-        
     </ul>
 
     <h3>Introduction or Background</h3>
