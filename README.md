@@ -22,7 +22,12 @@ The dataset used in this project is available on Kaggle and includes various var
 We conducted multiple statistical analyses, including hypothesis testing, correlation tests, multiple linear regression, ANOVA, and chi-square tests. The analyses helped us understand the relationships between life expectancy and various predictors such as GDP, adult mortality, BMI, and HIV/AIDS prevalence.
 
 ## Reflection
-Through this project, we gained valuable insights into the complex factors affecting life expectancy. The integration of diverse variables, including economic and health indicators, highlighted the importance of a holistic approach in public health research. The findings underscore the significance of immunization and economic stability in enhancing life expectancy, providing a solid foundation for future policy recommendations.
+Through this project, I gained valuable insights into the complex factors affecting life expectancy. Working with real-world data from WHO and the UN challenged me to think critically about the numerous variables that influence health outcomes. One of the most significant learnings was understanding the interplay between economic indicators and health metrics. For example, the relationship between GDP and life expectancy highlighted how economic stability can directly impact a population's health.
+
+Furthermore, the project underscored the importance of immunization programs in enhancing life expectancy. Analyzing the data showed me how preventative health measures, often taken for granted in more developed countries, are crucial for improving life expectancy in lower-income regions.
+
+On a technical level, I improved my skills in statistical analysis and data visualization, using tools like regression models and hypothesis testing to derive meaningful conclusions from complex datasets. This experience has not only deepened my understanding of statistical methods but also reinforced the importance of a holistic approach in public health research. The findings from this project have provided a solid foundation for future policy recommendations and have motivated me to continue exploring the field of data-driven health analytics.
+
 
 ## Project Report
 <a href="https://drive.google.com/file/d/11ZobduWWefBJV9tU1ZQMiS9xuIXIfUYb/view?usp=sharing" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">View Full Report</a>
