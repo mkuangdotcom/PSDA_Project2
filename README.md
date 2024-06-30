@@ -20,3 +20,6 @@ We conducted multiple statistical analyses, including hypothesis testing, correl
 
 ## Reflection
 Through this project, we gained valuable insights into the complex factors affecting life expectancy. The integration of diverse variables, including economic and health indicators, highlighted the importance of a holistic approach in public health research. The findings underscore the significance of immunization and economic stability in enhancing life expectancy, providing a solid foundation for future policy recommendations.
+
+## Project Report
+<a href="https://drive.google.com/file/d/11ZobduWWefBJV9tU1ZQMiS9xuIXIfUYb/view?usp=sharing" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">View Full Report</a>
