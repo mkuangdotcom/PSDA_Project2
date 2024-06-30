@@ -26,3 +26,5 @@ Through this project, we gained valuable insights into the complex factors affec
 
 ## Project Report
 <a href="https://drive.google.com/file/d/11ZobduWWefBJV9tU1ZQMiS9xuIXIfUYb/view?usp=sharing" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">View Full Report</a>
+<br>
+<a href="https://drive.google.com/file/d/18yDtbYGNeOSwvMD9ipGdJJHpdqyzHVKx/view?usp=sharing" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">View Slide</a>
